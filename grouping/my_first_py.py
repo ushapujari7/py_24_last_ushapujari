@@ -1,12 +1,14 @@
-#for i in range(10):
-#  print(i)
+def practice_1():
+    for i in range(20):
+        print(i+2)
 
-#for j in range(10,20):
-#    print(j*2)
+def practice_2():
+    for j in range(1,10):
+        print(j*2)
 
-#for c in range(50,100,5):
-#    print(c)
-
+def practice_3():
+    for c in range(10,20,2):
+        print(c)
 
 def games(given_name):
     if "venkat"== given_name:
@@ -25,4 +27,6 @@ multiples(x)
 games(input("guess name: "))  #calling function
 
 
-
+practice_1()
+practice_2()
+practice_3()
