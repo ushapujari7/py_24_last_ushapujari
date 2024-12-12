@@ -1,0 +1,52 @@
+Data Types
+Numeric: int, float, complex
+Sequence: str, list, tuple
+Set Types: set, frozenset
+Mappings: dict
+Boolean: bool
+Control Flow
+Conditional statements: if, elif, else
+Loops: for, while
+Loop control: break, continue, pass
+Functions
+Defining functions using def
+Parameters and arguments
+Return values and lambda functions
+Object-Oriented Programming (OOP)
+Classes and objects
+Inheritance, encapsulation, and polymorphism
+Magic methods like __init__ and __str__
+
+Modules and Packages
+Importing libraries using import and from ... import
+Built-in modules: os, sys, math, random
+Custom modules and organizing projects with packages
+3. Advanced Python Topics
+
+File Handling
+Reading and writing files with open()
+Modes: r, w, a, r+, and binary modes
+Using with for file handling
+Error and Exception Handling
+
+Try-except blocks
+Common exceptions: ValueError, TypeError, KeyError
+Raising and handling custom exceptions
+Decorators
+
+Modifying the behavior of functions or classes
+Example: @staticmethod, @property
+Iterators and Generators
+
+Iterators: Implementing __iter__ and __next__
+Generators: Using yield for efficient data handling
+Regular Expressions (Regex)
+
+Pattern matching with the re module
+Methods like search(), match(), findall()
+
+
+
+
+
+
